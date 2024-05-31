@@ -1,2 +1,1 @@
-# MachineLearning-Project
-Anticipating Apple Stock Closing Prices: A 3-Year Data Analysis Approach
+Final project report for the Machine Learning course at UPenn.
